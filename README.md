@@ -4,18 +4,21 @@
 
 Home page
 
-![Home page](https://github.com/piyusdev2006/mern-chat-application/assets/103926513/e86d93d7-b55a-4a76-8279-0c00a4250b43)
+![Home page](https://github.com/piyusdev2006/chat-app/assets/103926513/57ed6d3c-9181-4592-84de-105ed3c64a1a)
 
 
 Login page
 
-![Login page](https://github.com/piyusdev2006/mern-chat-application/assets/103926513/a590be4c-6569-432e-af3c-7d7fd87e1f77)
 
+
+![Login page](https://github.com/piyusdev2006/chat-app/assets/103926513/0e0c2ef2-3dad-43f0-b1f3-c4aa4c788b26)
 
 
 SignUp page
 
-![SignUp page](https://github.com/piyusdev2006/mern-chat-application/assets/103926513/5f3256e8-e5e8-49f2-beec-79a0653e3b3f)
+
+![SignUp page](https://github.com/piyusdev2006/chat-app/assets/103926513/bac3b113-a220-43ee-b02d-b1dfa03bfcd4)
+
 
 
 Some Features:
